@@ -1,0 +1,9 @@
+.myscroll {
+    /* Scrollbar ko hide karne ke liye */
+    scrollbar-width: none; /* Firefox ke liye */
+    -ms-overflow-style: none; /* Internet Explorer ke liye */
+  }
+  
+  .myscroll::-webkit-scrollbar {
+    display: none; /* Chrome, Safari, Opera ke liye */
+  }
