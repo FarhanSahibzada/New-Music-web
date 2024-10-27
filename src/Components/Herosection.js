@@ -17,7 +17,7 @@ function Herosection() {
                 <h1 className='text-white mt-20 md:mt-0 text-4xl md:text-7xl font-bold 
                 bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-300
                 '>Master the art of music</h1>
-                <p className=' text-neutral-300 mx-auto text-base md:text-lg font-normal max-w-lg mt-4'>Dive into our comprehensive music courses and transform your musical journey today. Whether you&apos;re
+               <p className=' text-neutral-300 mx-auto text-base md:text-lg font-normal max-w-lg mt-4'>Dive into our comprehensive music courses and transform your musical journey today. Whether you&apos;re
                     a beginerr or looking to refine your skills, join us to unlock your true potential.</p>
                 <div  className='text-white mt-6 '>
                     <Link href={"/Courses"}>
