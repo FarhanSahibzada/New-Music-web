@@ -1,4 +1,4 @@
-// File: C:\Users\DELL Laptop\OneDrive\Desktop\Next js Modern Front-end files\Music Web\src\app\page.js
+// File: C:\Users\DELL Laptop\OneDrive\Desktop\Next js Modern Front-end files\Music Web\src\app\page.jsx
 import * as entry from '../../../src/app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
